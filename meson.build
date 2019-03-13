@@ -1,4 +1,4 @@
-project('span-lite'
+project('span-lite',
   'cpp',
   version: 'git',
   license: 'Boost'
